@@ -21,6 +21,15 @@ This is the JAVA core source code of the LWMap Service which should be available
 
 [Layout](src/main/java/de/rkrempel/diss/layout/dbpediadata/DBPediacontextLayoutScriptWebView3.java)
 
+## Install
+
+source is in _src_
+
+Include all jar files in _lib_
+
+The rest should be running with the Maven Dependencies
+
+clone [disslibrary](https://github.com/krempelra/disslibrary) and set as dependency.
 
 ## Comments
 
