@@ -8,7 +8,7 @@ Depends on the [disslibrary Project](https://github.com/krempelra/disslibrary)
 
 ### Chapter 3.5 _Patterns im automatischen Retrieval_
 
-This is the description of the workflows to Analyse the connections-system in the [Arachne-Database](https://arachne.uni-koeln.de)
+This is the description of the workflows to Analyse the connections-system in the [Arachne-Database](http://arachne.uni-koeln.de/)
 Its more or less useless without the Arachne-Database, which is not completely open to the point needed here. It should emphasize the processing in principle.
 
 [Arachne reference Analysis](src/main/java/de/rkrempel/diss/arachneanalysis/AllTwoModeAnalysisWriterv2.java)
@@ -22,3 +22,6 @@ This is the JAVA core source code of the LWMap Service which should be available
 [Layout](src/main/java/de/rkrempel/diss/layout/dbpediadata/DBPediacontextLayoutScriptWebView3.java)
 
 
+## Comments
+
+Comments are usually in english some times they are in german and a few lines later the english version follows, sometimes its missing :-( .
