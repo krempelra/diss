@@ -17,7 +17,7 @@ Its more or less useless without the Arachne-Database, which is not completely o
 
 This is the JAVA core source code of the LWMap Service which should be available under http://lwmap.uni-koeln.de/ .
 
-[Retrival](src/main/java/de/rkrempel/diss/harvesting/harvesterexecs/ImportableHarvesterV7.java)
+[Retrieval](src/main/java/de/rkrempel/diss/harvesting/harvesterexecs/ImportableHarvesterV7.java)
 
 [Layout](src/main/java/de/rkrempel/diss/layout/dbpediadata/DBPediacontextLayoutScriptWebView3.java)
 
